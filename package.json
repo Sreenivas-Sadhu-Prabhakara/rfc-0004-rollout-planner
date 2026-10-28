@@ -1,0 +1,13 @@
+{
+  "name": "rfc-0004-rollout-planner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "See the spacing in an early network rollout and reuse that schedule as a clearly labelled planning exercise.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
